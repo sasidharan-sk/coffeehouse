@@ -1,0 +1,247 @@
+#cafe {
+    width: 100%;
+    margin-top: -100px;
+}
+
+#icon {
+    width: 17%;
+    margin-left: 2%;
+    margin-bottom: 150%;
+    margin-top: 80px;
+    position: inherit;
+}
+
+.align {
+    font-family: Monaco;
+    letter-spacing: 2px;
+    position: absolute;
+    top: 50%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+    color: whitesmoke;
+    text-shadow: 2px 2px 4px #000000;
+    font-size: 650%
+}
+
+.icon_align {
+    position: absolute;
+    font-size: 350%;
+    top: 76.4%;
+    left: 26%;
+    color: maroon;
+}
+
+#gili {
+    width: 100%;
+    margin-top: 30px;
+}
+
+.text {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 142%;
+    left: 51.25%;
+    color: rgb(223, 75, 75);
+    text-shadow: 1px 2px 5px #000000;
+    font-size: 350%;
+}
+
+#h2 {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 161.60%;
+    left: 56.5%;
+    color: white;
+    text-shadow: 2px 3px 7px #000000;
+    font-size: 500%;
+}
+
+hr {
+    position: relative;
+    top: -407px;
+    border: none;
+    height: 21px;
+    width: 180px;
+    background: rgb(223, 75, 75);
+    margin-bottom: 10px;
+    left: -8%;
+}
+
+.quotes {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 188%;
+    left: 46.49%;
+    color: black;
+    opacity: 0.8;
+    font-size: 200%;
+}
+
+li {
+    display: inline;
+}
+
+li {
+    float: left;
+}
+
+a {
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
+}
+
+ul {
+    background-color: #dddddd;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    margin-left: -6.5px;
+    padding: 0px;
+    overflow: hidden;
+    background-color: #333;
+    opacity: 90%;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+.active {
+    background-color: #04AA6D;
+}
+
+li {
+    border-right: 1px solid #bbb;
+}
+
+li:last-child {
+    border-right: none;
+}
+
+ul {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+#unique {
+    width: 100%;
+}
+
+#h6 {
+    position: absolute;
+    font-size: 410%;
+    top: 235.5%;
+    left: 6%;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    opacity: 87%;
+}
+
+#item_1 {
+    position: absolute;
+    font-size: 200%;
+    top: 315.15%;
+    left: 6%;
+    text-shadow: 0.65px 0.65px 0.65px #333;
+}
+
+#item_2 {
+    position: absolute;
+    font-size: 200%;
+    top: 315.15%;
+    left: 36%;
+    text-shadow: 0.65px 0.65px 0.65px #333;
+}
+
+#item_3 {
+    position: absolute;
+    font-size: 200%;
+    top: 315.15%;
+    left: 66%;
+    text-shadow: 0.65px 0.65px 0.65px #333;
+}
+
+#contact {
+    width: 100%;
+}
+
+h5 {
+    position: absolute;
+    font-size: 300%;
+    top: 380%;
+    left: 10%;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    letter-spacing: 1px;
+}
+
+#details {
+    position: absolute;
+    font-size: 200%;
+    top: 395%;
+    left: 10%;
+    color: white;
+}
+
+.no {
+    background-color: transparent;
+}
+
+.mail {
+    background-color: transparent;
+}
+
+#end {
+    position: absolute;
+    font-size: 220%;
+    top: 412.35%;
+    left: 10%;
+    color: white;
+}
+
+a.no:link {
+    color: white;
+}
+
+a.no:visited {
+    color: green;
+}
+
+a.no:hover {
+    color: tomato;
+}
+
+a.no:active {
+    color: blue;
+}
+
+a.mail:link {
+    color: white;
+}
+
+a.mail:visited {
+    color: green;
+}
+
+a.mail:hover {
+    color: tomato;
+}
+
+a.mail:active {
+    color: blue;
+}
